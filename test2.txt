@@ -1,0 +1,5 @@
++++++
+
+Here is another document test2.txt, which contains some text.
+
++++++
