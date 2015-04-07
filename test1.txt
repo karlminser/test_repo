@@ -2,4 +2,6 @@
 
 Here is some text using test1.txt to test Git.
 
+Here is more text indcating the file has been updated.
+
 +++++
